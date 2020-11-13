@@ -4,7 +4,7 @@ import Recursion.MergeSort;
 public class Main {
     public static void main(String[] args) {
 
-        //TODO change later?
+        // TODO change later?
         // Sample array used in all sorting algorithms
         int[] intArray = {20, 35, -15, 7, 55, 1, -22};
 
